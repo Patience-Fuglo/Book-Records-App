@@ -32,6 +32,7 @@ const Login = ({ setLoginUser }) => {
       <div className="self-center mb-6 text-xl font-light text-gray-600 sm:text-2xl dark:text-white">
         Login
       </div>
+
       <div className="mt-8">
         <form autoComplete="off">
           <div className="flex flex-col mb-2">

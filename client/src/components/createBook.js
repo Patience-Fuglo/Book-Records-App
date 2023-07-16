@@ -37,8 +37,16 @@ const CreateBook = (props) => {
     }
   };
   return (
-    <div>
-      <form onSubmit={submitHandler}>
+    <div
+      style={{
+        backgroundImage: `linear-gradient(to top, rgba(114, 51, 51, 0) 10%, rgba(0, 100, 0, 2)), url("https://tse3.mm.bing.net/th?id=OIP.KdMsSKnjpjCxUIAfR_r2RQHaEe&pid=Api&P=0&h=180")`,
+        backgroundRepeat: "no-repeat",
+        width: "100%",
+        backgroundSize: "cover",
+        height: "300px",
+      }}
+    >
+      <form id="bookForm" onSubmit={submitHandler}>
         <div className="form-fields">
           <label>Title</label>
           <input
