@@ -18,7 +18,6 @@ const Register = () => {
     });
   };
 
-  //register function
   const handleSubmit = () => {
     const { first_name, last_name, email, password } = user;
     if (first_name && last_name && email && password) {
