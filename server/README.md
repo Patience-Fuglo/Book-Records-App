@@ -1,6 +1,6 @@
 # Reading Club Booking App
 
-The Reading Club Booking App is a web application designed for avid readers who love to engage in book clubs and literary events. It provides a platform for users to discover reading clubs, book discussions, and author events in their area, make bookings, and manage their reading club memberships.
+The Reading Club Booking App is a web application designed for readers who love to engage in book clubs and literary events. It provides a platform for users to discover reading clubs, book discussions, and author events in their area, make bookings, and manage their reading club memberships.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
